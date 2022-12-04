@@ -27,6 +27,7 @@ hr {
     padding: 0.5rem 1rem;
     margin-top:  2rem;
     margin-bottom: 2rem;
+    align-self: auto;
 
 }
 
@@ -96,6 +97,9 @@ border: solid 1px #22d3ee;
 
 .ow {
     background-color: aliceblue;
+}
+.paragraph {
+    align-self: auto;
 }
 
 .footer {
