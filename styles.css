@@ -33,12 +33,12 @@ hr {
 
 .link-primary {
     background-color: #22d3ee;
-    border-radius: 00.5rem;
+    border-radius: 2.5rem;
     color: white;
 }
 .link-secondary {
 color: #22d3ee;
-border-radius: 00.5rem;
+border-radius: 2.5rem;
 border: solid 1px #22d3ee;
 }
 
